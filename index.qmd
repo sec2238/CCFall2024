@@ -1,18 +1,25 @@
 ---
-title: "About Me"
+title: "Welcome!"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/CC Profile Pic.png
 ---
 
 :::{#me}
 
-## Goals
+## This is the Monday / Wednesday EDAV class and the videos they created! 
 
-## Education
+##
 
-## Experience
+## 
+
+##
+
+## Have fun exploring!
+
+## 
+
 
 :::
 

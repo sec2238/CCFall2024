@@ -1,23 +1,86 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Welcome!",
     "section": "",
     "text": "Thanks for checking out my web site!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "R Janitor’s clean_names() Function Details\ndyplr and tidyr Packages to Clean and Manipulate Data\nHandling missing values using MICE Package in R\nREADXL Package for Transformation and Visualization\nCodebooks & Integration into R\nRead Excel Files into R\nSorting Text Data with parcoords()\nCreate API using Plumber Dataset\nWorldfootballR: Extract & Clean Soccer Data Easily"
+  },
+  {
+    "objectID": "projects.html#data-cleaning-and-preparation",
+    "href": "projects.html#data-cleaning-and-preparation",
+    "title": "Projects",
+    "section": "",
+    "text": "R Janitor’s clean_names() Function Details\ndyplr and tidyr Packages to Clean and Manipulate Data\nHandling missing values using MICE Package in R\nREADXL Package for Transformation and Visualization\nCodebooks & Integration into R\nRead Excel Files into R\nSorting Text Data with parcoords()\nCreate API using Plumber Dataset\nWorldfootballR: Extract & Clean Soccer Data Easily"
+  },
+  {
+    "objectID": "projects.html#exploratory-data-analysis",
+    "href": "projects.html#exploratory-data-analysis",
+    "title": "Projects",
+    "section": "Exploratory Data Analysis",
+    "text": "Exploratory Data Analysis\n\nDataExplorer Package in R for EDA\nExploring the ‘Diamonds’ Dataset in R\nExploratory Data Analysis on NYC Airbnbs\nUncovering Patterns in NYC Airbnb Data\nSteps for Exploratory Data Analysis\nNASCAR Data Analysis and Top 10 Finish Prediction\nIMF (International Monetary Fund) Data Analysis and Visualization with R\nAnalyze Ecological and Environmental Data with vegan Package in R\nAnalyzing Political Ad Spending for Trump/Harris in R"
+  },
+  {
+    "objectID": "projects.html#data-visualization",
+    "href": "projects.html#data-visualization",
+    "title": "Projects",
+    "section": "Data Visualization",
+    "text": "Data Visualization\n\nUseful Tips for Visualization Techniques in R\nData Visualization of Job Postings and Salaries\nInteractive Charts with ggiraph\nInteractive Plots with highcharter and c3 Packages\nplotscaper for Interactive Data Exploration in R\nRcolors: Generate and Customize Beautiful Color Palettes for Graphing in R\nDivergent vs Percentage Stacked Bar Charts\nggVennDiagram in R\nR sunburst Package Tutorial\nggtree Tutorial\nzenplots in R -\nCreate percentage stacked bar plots of likert data using mikit likertbar\nConvert Greyscale PNG’s to Analysis-Read Format\nAn Introduction to Chord Diagrams in R\nCreate a network with Gephi in 5 minutes"
+  },
+  {
+    "objectID": "projects.html#geospatial-data-and-mapping",
+    "href": "projects.html#geospatial-data-and-mapping",
+    "title": "Projects",
+    "section": "Geospatial Data and Mapping",
+    "text": "Geospatial Data and Mapping\n\nWorking with Satellite Data in R\nIntroduction of rworldmap\nMaking Maps in R with geom_map - Community Contribution\nPlotting Geospatial Data with SF and GGanimate R Packages\nCreate Geographic Heat Map in RStudio\nRetrieve, Plot, and Simulate Weather Data"
+  },
+  {
+    "objectID": "projects.html#time-series-analysis",
+    "href": "projects.html#time-series-analysis",
+    "title": "Projects",
+    "section": "Time Series Analysis",
+    "text": "Time Series Analysis\n\nForecasting Time-Series Data in R\nTime-Series Analysis in R\nTime-Series Analysis with R Packages: lubridate, tsibble, feasts, fable\nR Package ‘forecasts’ for Time-Series Data\nRegression for Time-Series Heatmap Creation"
+  },
+  {
+    "objectID": "projects.html#dimensionality-reduction-and-high-dimensional-data-visualization",
+    "href": "projects.html#dimensionality-reduction-and-high-dimensional-data-visualization",
+    "title": "Projects",
+    "section": "Dimensionality Reduction and High Dimensional Data Visualization",
+    "text": "Dimensionality Reduction and High Dimensional Data Visualization\n\nPCA with McDonald’s India Menu Dataset\nDimensionality Reduction and Visualization with t-SNE in R\nt-SNE for Visualizing High Dimensional Data"
+  },
+  {
+    "objectID": "projects.html#statistical-analysis-and-machine-learning",
+    "href": "projects.html#statistical-analysis-and-machine-learning",
+    "title": "Projects",
+    "section": "Statistical Analysis and Machine Learning",
+    "text": "Statistical Analysis and Machine Learning\n\nHow to visualize t-test and ANOVA result using ggstatsplot in R\nMachine Learning in R with UCI Heart Disease Dataset\nMachine Learning in R with Diabetes Dataset\nSurveydata Package Tutorial\nCAR Package - Companion to to Applied Regression"
+  },
+  {
+    "objectID": "projects.html#shiny-web-applications",
+    "href": "projects.html#shiny-web-applications",
+    "title": "Projects",
+    "section": "Shiny Web Applications",
+    "text": "Shiny Web Applications\n\nShiny Package for Building Web Applications\nCreating Interactive Plots with Shiny\nCreate Web Applications with Shiny in R\nShiny Package for Interactive Histograms\nR Package ‘shiny’ with Parkinson’s Dataset"
+  },
+  {
+    "objectID": "projects.html#package-tutorials",
+    "href": "projects.html#package-tutorials",
+    "title": "Projects",
+    "section": "Package Tutorials",
+    "text": "Package Tutorials\n\nMastering R Package Installation: A Community Guide\nR Package gganimate\nFunction Searching and Usage Lookup\neasyalluvium Package\nR Package NutrienTrackeR\nBuilding Recommendation System with CFilt\ntidytext and worldcloud2 Packages\nIntuitive Likert Data Transformation and Direct Plot Tool - R Package surveylikert"
+  },
+  {
+    "objectID": "projects.html#other",
+    "href": "projects.html#other",
+    "title": "Projects",
+    "section": "Other",
+    "text": "Other\n\nSurvival Analysis in R\nInstalling Observable Framework from Zero"
   }
 ]

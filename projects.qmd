@@ -2,8 +2,100 @@
 title: "Projects"
 ---
 
-## Project 1
+## Data Cleaning and Preparation
 
-## Project 2
+- [R Janitor's clean_names() Function Details](https://youtu.be/wgeWjIDmeG0)
+- [dyplr and tidyr Packages to Clean and Manipulate Data](https://youtu.be/WaswgWXgBaI)
+- [Handling missing values using MICE Package in R](https://youtu.be/63STyvG3qDQ)
+- [READXL Package for Transformation and Visualization](https://youtu.be/0lF6Z2eVKcw)
+- [Codebooks & Integration into R](https://www.youtube.com/watch?v=hiYYXUGYh10)
+- [Read Excel Files into R](https://youtu.be/8fiP1CvtGec)
+- [Sorting Text Data with parcoords()](https://youtu.be/5GxgV10E2PI)
+- [Create API using Plumber Dataset](https://youtu.be/Msjct2Gg0RU)
+- [WorldfootballR: Extract & Clean Soccer Data Easily](https://www.youtube.com/watch?v=k0GMESncSsQ)
 
-## Project 3
+## Exploratory Data Analysis
+
+- [DataExplorer Package in R for EDA](https://youtu.be/VbzwwEp558k)
+- [Exploring the 'Diamonds' Dataset in R](https://www.youtube.com/watch?v=9vZBzNXvuYg)
+- [Exploratory Data Analysis on NYC Airbnbs](https://youtu.be/JUkYfUjfxSU)
+- [Uncovering Patterns in NYC Airbnb Data](https://www.youtube.com/watch?v=P_ur3VfK77E)
+- [Steps for Exploratory Data Analysis](https://youtu.be/eHiJe9fUdE0)
+- [NASCAR Data Analysis and Top 10 Finish Prediction](https://youtu.be/FlQ_ufEPgXs)
+- [IMF (International Monetary Fund) Data Analysis and Visualization with R](https://youtu.be/4XE2q8uLXPM)
+- [Analyze Ecological and Environmental Data with vegan Package in R](https://youtu.be/61t9TF20q5w)
+- [Analyzing Political Ad Spending for Trump/Harris in R](https://youtu.be/xU7VQ0WVq6Y)
+
+## Data Visualization
+
+- [Useful Tips for Visualization Techniques in R](https://youtu.be/_EwxNDvOZxQ)
+- [Data Visualization of Job Postings and Salaries](https://www.youtube.com/watch?v=3f6-ysBL32s)
+- [Interactive Charts with ggiraph](https://youtu.be/GONaDgpLINA)
+- [Interactive Plots with highcharter and c3 Packages](https://youtu.be/7sVJazRjEJw)
+- [plotscaper for Interactive Data Exploration in R](https://youtu.be/qvZpmMAZLq4)
+- [Rcolors: Generate and Customize Beautiful Color Palettes for Graphing in R](https://www.youtube.com/watch?v=YKMVwR67Cnw)
+- [Divergent vs Percentage Stacked Bar Charts](https://youtu.be/rPuT0h_qUQw)
+- [ggVennDiagram in R](https://www.youtube.com/watch?v=ibUTHZ5YHyw)
+- [R sunburst Package Tutorial](https://youtu.be/1N1z3V9UD1w)
+- [ggtree Tutorial](https://youtu.be/2XrMgPuODgA)
+- [zenplots in R - ](https://www.youtube.com/watch?v=T0odG6bbZdg)
+- [Create percentage stacked bar plots of likert data using mikit likertbar](https://youtu.be/Q_05iWX7YxM?si=erdP9VW0JUahGyTr)
+- [Convert Greyscale PNG's to Analysis-Read Format](https://www.youtube.com/watch?v=3rNZrSirMz8)
+- [An Introduction to Chord Diagrams in R](https://youtu.be/0WwClpcUfGc)
+- [Create a network with Gephi in 5 minutes](https://www.youtube.com/watch?v=VO2xDiIqC3g)
+
+## Geospatial Data and Mapping
+
+- [Working with Satellite Data in R](https://youtu.be/AaOfeoalbok)
+- [Introduction of rworldmap](https://youtu.be/jPosxv5OLnQ)
+- [Making Maps in R with geom_map - Community Contribution](https://youtu.be/61IEnmwATd8)
+- [Plotting Geospatial Data with SF and GGanimate R Packages](https://www.youtube.com/watch?v=wfwZkcwGaEg)
+- [Create Geographic Heat Map in RStudio](https://youtu.be/Z5hr2ChuI4k)
+- [Retrieve, Plot, and Simulate Weather Data](https://www.youtube.com/watch?v=MaHJMXIi_o4)
+
+## Time Series Analysis
+
+- [Forecasting Time-Series Data in R](https://www.youtube.com/watch?v=bfEu_3j5v2M)
+- [Time-Series Analysis in R](https://youtu.be/TZW9zo2P59o)
+- [Time-Series Analysis with R Packages: lubridate, tsibble, feasts, fable](https://youtu.be/OLDX0odlY-s)
+- [R Package 'forecasts' for Time-Series Data](https://youtu.be/2TAmtKQ2wqQ)
+- [Regression for Time-Series Heatmap Creation](https://youtu.be/-rcPJ4fkz5w)
+
+## Dimensionality Reduction and High Dimensional Data Visualization
+
+- [PCA with McDonald's India Menu Dataset](https://www.youtube.com/watch?v=QO5SKwuPJB0)
+- [Dimensionality Reduction and Visualization with t-SNE in R](https://youtu.be/MP00xoA0nvs)
+- [t-SNE for Visualizing High Dimensional Data](https://youtu.be/UAFEKmR_n0U)
+
+## Statistical Analysis and Machine Learning
+
+- [How to visualize t-test and ANOVA result using ggstatsplot in R](https://youtu.be/KdtR3xnXjiE) 
+- [Machine Learning in R with UCI Heart Disease Dataset](https://www.youtube.com/watch?v=xod5_VUEQKM)
+- [Machine Learning in R with Diabetes Dataset](https://www.youtube.com/watch?v=jEKt5FGH7l8&feature=youtu.be)
+- [Surveydata Package Tutorial](https://youtu.be/OBXvE3xdnvA)
+- [CAR Package - Companion to to Applied Regression](https://youtu.be/C8d_CK4IBPk) 
+
+## Shiny Web Applications
+
+- [Shiny Package for Building Web Applications](https://youtu.be/5jwManOW4vQ)
+- [Creating Interactive Plots with Shiny](https://youtu.be/GkA9mwMVYxc)
+- [Create Web Applications with Shiny in R](https://youtu.be/fYGwPlXXE6Y?si=NDgkEe4Ak6Xgcqla)
+- [Shiny Package for Interactive Histograms](https://youtu.be/ImEUAi2FLUc?si=-4fpD4F1Ok-0Pn-m)
+- [R Package 'shiny' with Parkinson's Dataset](https://youtu.be/6qj7RCK0Fgc)
+
+## Package Tutorials
+
+- [Mastering R Package Installation: A Community Guide](https://www.youtube.com/watch?v=olV2lskENCg)
+- [R Package gganimate](https://youtu.be/-n6QG2tHB1s)
+- [Function Searching and Usage Lookup](https://youtu.be/N7nETUCxxjk)
+- [easyalluvium Package](https://youtu.be/e5JV6Ewa9Dg)
+- [R Package NutrienTrackeR](https://youtu.be/xKLbejR8yhs)
+- [Building Recommendation System with CFilt](https://www.youtube.com/watch?v=o27_gMRWF8g)
+- [tidytext and worldcloud2 Packages](https://youtu.be/SW2gGr7oi0s) 
+- [Intuitive Likert Data Transformation and Direct Plot Tool - R Package `surveylikert`](https://youtu.be/4ldIACPNCco?si=sEyMegnewCKKLyrM)
+
+## Other
+
+- [Survival Analysis in R](https://youtu.be/RLM469NUsvo)
+- [Installing Observable Framework from Zero](https://www.youtube.com/watch?v=QA6by44cuvs)
+

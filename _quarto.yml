@@ -3,25 +3,23 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Fall 2024 Community Contributions"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
+      - href: projects.qmd
+        text: Projects
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: shttps://github.com/sec2238/CCFall2024.git
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2024, EDAV CC"
 
 format:
   html:
-    theme: cerulean
+    theme: vapor
     toc: true
+    css: styles.css  # Include the custom CSS file
 
 editor: source
 
