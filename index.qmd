@@ -8,7 +8,7 @@ about:
 
 :::{#me}
 
-## This is the Monday / Wednesday EDAV class and the videos they created! 
+## These videos were created by students in Columbia University's STAT 5702 Exploratory Data and Visualization Class! 
 
 ##
 
@@ -16,7 +16,7 @@ about:
 
 ##
 
-## Have fun exploring!
+## Have fun exploring and learning!
 
 ## 
 
